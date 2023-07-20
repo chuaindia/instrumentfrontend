@@ -23,7 +23,7 @@
 # 📖 QuickMaths - FrontEnd <a name="about-project"></a>
 
 **QuickMaths - FrontEnd** serves as the front end for this [API application](https://github.com/laiifuu/QuickMaths-BackEnd). 
-QuickMaths is a cutting-edge booking application designed to help students of all ages and skill levels find a qualified math tutor quickly and easily.
+QuickMaths is a cutting-edge booking application designed to help students of all ages and skill levels find a qualified math laptop quickly and easily.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -37,11 +37,11 @@ QuickMaths is a cutting-edge booking application designed to help students of al
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Retrieve a list of tutors**
+- **Retrieve a list of laptops**
 - **Retrieve a list of reservations**
 - **Make/delete a reservation**
-- **Add a tutor**
-- **Remove a tutor**
+- **Add a laptop**
+- **Remove a laptop**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder: 
 
 ```
-git clone https://github.com/laiifuu/quickmaths-frontend.git
+git clone https://github.com/
 ```
 
 
@@ -95,21 +95,21 @@ npm run start
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Hayet Fellah**
+👤 ****
 
-- GitHub: [@laiifuu](https://github.com/laiifuu)
-- Twitter: [@hayet_fe](https://twitter.com/hayet_fe)
+- GitHub: (https://github.com/)
+- Twitter: (https://twitter.com/)
 
-👤 **Florin Voicu**
+👤 ****
 
-- GitHub: [@vflorin1995](https://github.com/vflorin1995)
-- LinkedIn: [@florin--voicu](https://linkedin.com/in/florin--voicu)
+- GitHub: (https://github.com/)
+- LinkedIn: (https://linkedin.com/in/)
 
-👤 **Daron Wiafe**
+👤 ****
 
-- GitHub: [@githubhandle](https://github.com/Daron976)
-- Twitter: [@twitterhandle](https://twitter.com/WiafeDaron)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daronkwiafe/)
+- GitHub: (https://github.com/)
+- Twitter: (https://twitter.com/)
+- LinkedIn: (https://www.linkedin.com/in//)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +117,7 @@ npm run start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Implement pagination in the reservations and delete a tutor pages**
+- [ ] **Implement pagination in the reservations and delete a laptop pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
